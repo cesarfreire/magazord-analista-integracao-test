@@ -1,5 +1,3 @@
-# Teste Prático - Analista de Integrações
-
 # Teste Prático – Analista de Negócios (Integrações, APIs e Qualidade)
 
 Este repositório contém o **Teste Prático para Avaliação de Candidatos à vaga de Analista de Negócios** com foco em **Integrações Terceiras, APIs e Garantia de Qualidade (QA)**.
